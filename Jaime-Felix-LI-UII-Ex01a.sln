@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jaime-Felix-LI-UII-Ex01a", "Jaime-Felix-LI-UII-Ex01a\Jaime-Felix-LI-UII-Ex01a.vcxproj", "{856F7B20-1342-4FA3-943B-9BF3322F295E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Debug|x64.ActiveCfg = Debug|x64
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Debug|x64.Build.0 = Debug|x64
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Debug|x86.ActiveCfg = Debug|Win32
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Debug|x86.Build.0 = Debug|Win32
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Release|x64.ActiveCfg = Release|x64
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Release|x64.Build.0 = Release|x64
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Release|x86.ActiveCfg = Release|Win32
+		{856F7B20-1342-4FA3-943B-9BF3322F295E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70540FF2-DC4C-4F3D-8DA9-1D56BBEC2F31}
+	EndGlobalSection
+EndGlobal
